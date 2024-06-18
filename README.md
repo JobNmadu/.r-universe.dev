@@ -1,2 +1,3 @@
-"# R package for various machine learning tasks in R" 
+"# R package for various machine learning tasks" 
+
 "# .r-universe.dev" 
